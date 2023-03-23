@@ -30,7 +30,7 @@ website:
       #- about.qmd
     right:
       - icon: github
-        href: https://github.com/bbartholdy/3me-phd-dmp-training
+        href: https://github.com/3mE-Data-Stewards/3mE-PhD-DMP-training
         aria-label: GitHub
 
 format:
