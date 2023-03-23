@@ -99,7 +99,8 @@ If you need to submit your PhD agreement before following one of these trainings
     - After the training, you will discuss your DMP with your PhD supervisor(s).  
     - You will include your DMP in the Go/No Go Decision. 
 
-It is the responsibility of the PhD supervisor(s) to approve the DMP, not the Data Steward. A guide for the PhD supervisors can be found [here](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/5%20Things%20to%20check%20when%20looking%20at%20Data%20Management%20Plans%20%28DMPs%29%20-%20guidance%20for%20supervisors%20-%20FINAL%20VERSION%20%281%29.pdf).
+It is the responsibility of the PhD supervisor(s) to approve the DMP, not the Data Steward.
+A guide for the PhD supervisors can be found [here](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/5%20Things%20to%20check%20when%20looking%20at%20Data%20Management%20Plans%20%28DMPs%29%20-%20guidance%20for%20supervisors%20-%20FINAL%20VERSION%20%281%29.pdf).
 
 ## 3mE data management policy summary {#policy-summary}
 

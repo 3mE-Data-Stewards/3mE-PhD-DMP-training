@@ -4,52 +4,59 @@ title: "Resources"
 
 ## RDM
 
-DMP:
+Data management plans:
 
-- About: <https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-plans>
-- Informed consent: <https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide>
-- HREC application: <https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/>
+- [About](https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-plans)
+- [TUDelft instance of DMPonline](https://dmponline.tudelft.nl/)
+
+
+Working with human participants:
+
+- [Informed consent](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide)
+- [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/)
 
 Data organisation:
 
-- File naming: <https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming>
-- Storage solutions for researchers at TU Delft (requires login): <https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609>
-- Git version control: <https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control>
-- Personal data: <https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data/>
+- Storage solutions for researchers at TU Delft:
+  + [Overview (requires login)](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609)
+  + [Storage finder](https://storagefinder.tudelft.nl/)
+- [File naming advice](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+- [Getting started with Git version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [Managing personal data](https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data/)
 
 Course material:
 
-- TUDelft RDM 101: <https://zenodo.org/record/6325919#.YxX64bRByUk>
-- Esther Plomp's adaptation of RDM 101: <https://estherplomp.github.io/TNW-RDM-101/>
-- The Turing Way: <https://the-turing-way.netlify.app/reproducible-research/rdm.html>
+- [TUDelft RDM 101](https://zenodo.org/record/6325919#.YxX64bRByUk)
+- [Esther Plomp's adaptation of RDM 101](https://estherplomp.github.io/TNW-RDM-101/)
+- [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
 
 Electronic lab notebooks: 
 
-- <https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook>
-- <https://openworking.wordpress.com/2019/07/05/keep-calm-and-go-paperless-electronic-lab-notebooks-can-improve-your-research/>
+- [Overview](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
+- [Blog](https://openworking.wordpress.com/2019/07/05/keep-calm-and-go-paperless-electronic-lab-notebooks-can-improve-your-research/)
 
 Documentation
 
-- READMEs: <https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf>
-- READMEs for code: <https://github.com/PurpleBooth/a-good-readme-template>
+- [README guidelines](https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf)
+- [READMEs for code](https://github.com/PurpleBooth/a-good-readme-template)
 
 Data publishing/archiving
 
-- 4TU.ResearchData: <https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/>
-- Licenses: <https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing/>
+- [4TU.ResearchData](https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf)
+- [Licenses](https://www.tudelft.nl/library/copyright/c/creative-commons/types-of-licenses/)
 
 Help:
 
-- TU Delft Data Stewards: <https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact>
-- Research Data Management FAQs: <https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs>
-- TU Delft Digital Competence Center: <https://dcc.tudelft.nl/>
+- [TU Delft Data Stewards](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact)
+- [Research Data Management FAQs](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs)
+- [TU Delft Digital Competence Center](https://dcc.tudelft.nl/)
 
 ## Open Science
 
-Why? <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7>
+Why should I? <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7>
 
 FAIR: <https://fairsharing.org/standards/>
 
 Reproducible research: <https://the-turing-way.netlify.app/welcome>
 
-Blog: <https://estherplomp.github.io/TNW-OS-support/>
+Esther Plomp's blog: <https://estherplomp.github.io/TNW-OS-support/>
