@@ -26,7 +26,7 @@ jobs:
         with:
           use-public-rspm: true
       
-      - uses: r-lib/actions/setup-renv@v1 # r packages
+      - uses: r-lib/actions/setup-renv@v2 # r packages
       
       # add software dependencies here
 
