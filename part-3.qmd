@@ -10,12 +10,12 @@ Link to presentation: <https://3me-data-stewards.github.io/3mE-DMP-training-slid
 
 The following video links require registration for Part 3 in Brightspace.
 
-- [Brief introduction 📹](https://brightspace.tudelft.nl/d2l/le/content/471218/viewContent/2623414/View){style="text-decoration: none;"}
-- [Summary of important parts of RDM 📹](https://brightspace.tudelft.nl/d2l/le/content/471218/viewContent/2623433/View){style="text-decoration: none;"}
-- [Data and code archiving and sharing 📹](https://brightspace.tudelft.nl/d2l/le/content/471218/viewContent/2623439/View){style="text-decoration: none;"}
-- [Issues to address before archiving 📹](https://brightspace.tudelft.nl/d2l/le/content/471218/viewContent/2623443/View){style="text-decoration: none;"}
-- [TU Delft Research Software Policy and Software Licenses 📹](https://brightspace.tudelft.nl/d2l/le/content/471218/viewContent/2623474/View){style="text-decoration: none;"}
-- [How to archive data and code 📹](https://brightspace.tudelft.nl/d2l/le/content/471218/viewContent/2623479/View){style="text-decoration: none;"}
+- [Brief introduction 📹](https://brightspace.tudelft.nl/d2l/le/content/615491/viewContent/2623414/View){style="text-decoration: none;"}
+- [Summary of important parts of RDM 📹](https://brightspace.tudelft.nl/d2l/le/content/615491/viewContent/2623433/View){style="text-decoration: none;"}
+- [Data and code archiving and sharing 📹](https://brightspace.tudelft.nl/d2l/le/content/615491/viewContent/2623439/View){style="text-decoration: none;"}
+- [Issues to address before archiving 📹](https://brightspace.tudelft.nl/d2l/le/content/615491/viewContent/2623443/View){style="text-decoration: none;"}
+- [TU Delft Research Software Policy and Software Licenses 📹](https://brightspace.tudelft.nl/d2l/le/content/615491/viewContent/2623474/View){style="text-decoration: none;"}
+- [How to archive data and code 📹](https://brightspace.tudelft.nl/d2l/le/content/615491/viewContent/2623479/View){style="text-decoration: none;"}
 
 **Interactive session (60 min)**
 
@@ -23,7 +23,7 @@ The following video links require registration for Part 3 in Brightspace.
 - 2-minute presentation on workflow
 - Any remaining questions
 
-You can register for the interactive session in [Brightspace](https://brightspace.tudelft.nl/d2l/le/content/471218) by joining the group associated with the time slot.
+You can register for the interactive session in [Brightspace](https://brightspace.tudelft.nl/d2l/le/content/615491) by joining the group associated with the time slot.
 
 ## Assignments
 
