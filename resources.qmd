@@ -45,6 +45,12 @@ Data publishing/archiving
 - [4TU.ResearchData](https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf)
 - [Licenses](https://www.tudelft.nl/library/copyright/c/creative-commons/types-of-licenses/)
 
+TU Delft Courses
+
+- [Version control](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/version-control-collaborative-development-for-research-software)
+- [Data Carpentry (OpenRefine, R](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/data-carpentry-for-social-sciences)
+- [Software Carpentry (python, bash, git)](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
+
 Help:
 
 - [TU Delft Data Stewards](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact)
