@@ -23,7 +23,7 @@ The following video links require registration for Part 3 in Brightspace.
 - 2-minute presentation on workflow
 - Any remaining questions
 
-You can register for the interactive session in [Brightspace](https://brightspace.tudelft.nl/d2l/le/content/615491) by joining the group associated with the time slot.
+You can register for the interactive session in [Brightspace]({{< var brightspace.part3 >}}) by joining the group associated with the time slot.
 
 ## Assignments
 

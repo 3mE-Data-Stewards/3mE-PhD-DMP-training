@@ -46,7 +46,7 @@ if(nrow(schedule_part1) == 0){
 
 ### Part 3
 
-Registration for sessions is available on [Brightspace](https://brightspace.tudelft.nl/d2l/home/615491) for those who have completed parts 1 and 2.
+Registration for sessions is available on [Brightspace]({{< var brightspace.part3 >}}) for those who have completed parts 1 and 2.
 
 ```{r}
 #| label: part3-schedule
@@ -114,5 +114,5 @@ All PhD students who started from Jan 2020:
 
 - [DMPonline (TU Delft)](https://dmponline.tudelft.nl)
 - Brightspace module for Part 1 (under construction)
-- [Brightspace module for Part 3](https://brightspace.tudelft.nl/d2l/home/615491)
+- [Brightspace module for Part 3]({{< var brightspace.part3 >}})
 - [3mE faculty policy for data management](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_3mE_Research_Data_Management_Policy.pdf)
