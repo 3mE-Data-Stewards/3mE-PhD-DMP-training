@@ -10,7 +10,7 @@ execute:
 
 ## Course description
 
-This course is offered by the 3mE Graduate School to support PhD students at the 3mE faculty with the Research Data Mangement [policy](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_3mE_Research_Data_Management_Policy.pdf) requirements. The course consists of lectures with recommendations for data storage, project organisation, and data sharing and archiving. There will also be a practical component where students will get hands-on experience developing a Data Management Plan (DMP) using the [DMPonline](https://dmponline.tudelft.nl) platform.
+This course is offered by the 3mE Graduate School to support PhD candidates at the 3mE faculty with the Research Data Mangement [policy](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_3mE_Research_Data_Management_Policy.pdf) requirements. The course consists of lectures with recommendations for data storage, project organisation, and data sharing and archiving. There will also be a practical component where students will get hands-on experience developing a Data Management Plan (DMP) using the [DMPonline](https://dmponline.tudelft.nl) platform.
 
 For more information about the course, and for registration, contact {{< var instructor.name >}} at {{< var instructor.email >}}.
 
@@ -104,10 +104,13 @@ A guide for the PhD supervisors can be found [here](https://d2k0ddhflgrk1i.cloud
 
 ## 3mE data management policy summary {#policy-summary}
 
-All PhD students who started from Jan 2020:
+All PhD candidates who started from Jan 2020:
 
 - develop a written DMP for managing research outputs within the first 12 months.
 - attend relevant training in data management
+
+In addition, all PhD candidates who started from Jan 2019:
+
 - Ensure that all data and code underlying completed PhD theses are appropriately documented and accessible for at least 10 years from the end of the research project, in accordance with the [FAIR principles](https://www.go-fair.org/fair-principles/), unless there are valid reasons which make research data unsuitable for sharing
 
 ## Important links
